@@ -1,0 +1,7 @@
+div.div_row{
+    display:flex;
+}
+div.pad{
+    width:200px;
+    height:20px;
+}
