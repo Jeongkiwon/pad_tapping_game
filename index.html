@@ -1,19 +1,7 @@
 <html>
     <head>
-        <style>
-            div.row_div{
-                display:flex;
-                direction: row;
-            }
-            div.pad{
-                width:190px;
-                height:190px;
-                border:solid 1px black;
-            }
-            div.menu{
-                margin-left: 30px;
-            }
-        </style>
+        
+        <link rel="stylesheet" href="./index.css">
     </head>
     <body>
         <div class="row_div">
@@ -36,8 +24,9 @@
             </div>
             <div class="menu">
                 <div><h2>Padding Game!</h2></div>
-                <div>Score: </div>
+                <div>Score: <span id="result"></span></div>
             </div>
-        </div>    
+        </div>
+        <script src="./index.js"></script>
     </body>
 </html>
