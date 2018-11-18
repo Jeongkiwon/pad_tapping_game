@@ -1,5 +1,5 @@
 # pad_tapping_game
-<a href="jeongkiwon.github.io/game">게임하러가기</a> 웹에서 하는 것을 권장합니다.<br>
+<a href="https://jeongkiwon.github.io/game/">게임하러가기</a> 웹에서 하는 것을 권장합니다.<br>
 <h3>Game rule</h3>
 <ul>
   <li>Start 버튼을 누른다.</li>
