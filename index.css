@@ -5,8 +5,12 @@ div.row_div{
 }
 div.pad{
     width:190px;
-    height:190px;
+    height:110px;
     border:solid 1px black;
+    color:white;
+    font-size:20px;
+    text-align: center;
+    padding-top: 80px;
 }
 div.menu{
     margin-left: 30px;
